@@ -64,6 +64,20 @@ Low
 
 
 Messages with the same priority should be returned in first-in, first-out order.
+			 
+			 
+        Test messages:
+			 
+A MZ89 5678 50 1969-03-05T10:04:56.012Z
+
+B SS89 5678 50 2022-04-05T09:04:10.012Z
+
+C XX89 5678 50 2015-11-05T12:04:25.012Z
+
+D ZZ89 5678 50 2017-02-05T10:01:33.012Z
+
+A KK89 5678 50 2010-03-04T10:04:48.012Z
+			 
 
 
 
