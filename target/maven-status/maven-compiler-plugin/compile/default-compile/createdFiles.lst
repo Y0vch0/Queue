@@ -1,0 +1,4 @@
+com/mycompany/queue/InstructionMessage.class
+com/mycompany/queue/MessageReceiver.class
+com/mycompany/queue/Queue.class
+com/mycompany/queue/InstructionQueue.class
