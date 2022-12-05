@@ -78,7 +78,7 @@ public class InstructionMessage implements MessageReceiver {
                                         q.enqueue(im);
          // ********************************* If validation criteria are not met throw an exception ****************************************
                                     } else{
-                                      throw new IllegalArgumentException("data format is not valid.");
+                                      throw new IllegalArgumentException("timestamp format is not valid.");
                                     }
                                 } 
                                 catch (ParseException ex) {
